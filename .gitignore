@@ -50,3 +50,5 @@ DerivedDataCache/*
 *.exe
 *.out
 *.app
+Windows/Engine/Binaries/Win64/UnrealGame.pdb
+Windows/ExtremeExtermination/Content/Paks/ExtremeExtermination-Windows.ucas
